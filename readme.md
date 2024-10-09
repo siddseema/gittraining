@@ -1,0 +1,1 @@
+how to oprate git desktop
